@@ -16,10 +16,10 @@
 
 ### Evidências teste Positivo
 📎[ 1 - Buscar por “notebook”](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
-📎[ 2 - Validar os resultados](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
-📎[ 3 - Aplicar filtros de marca e preço](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
-📎[ 4 - Ordenar por “Menor preço”](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+📎[ 3.1 - Aplicar filtros de marca](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/filtros-de-marca.png)
+📎[ 3.2 - Aplicar filtros de preço](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/filtros-de-preco.png)
+📎[ 4 - Ordenar por “Menor preço”](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/ordenar-menor-preco.png)
 
 ### Evidências teste Negativo
-📎[ 1 -  Buscar algo inexistente (“abcd1234”)](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+📎[ 1 -  Buscar algo inexistente (“abcd1234”)](https://github.com/Danielramosgarcia/formacao-qa/blob/74d46cc9d31afb16812c032b85d520c853965847/modulo-4/evidencias/mercadolivre/busca-abcd1234.png)
 
