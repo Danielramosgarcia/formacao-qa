@@ -14,6 +14,12 @@
 |------|------|-------------------|--------|----------------------| 
 | 1 | Buscar algo inexistente (“abcd1234”) | Produtos aleatórios | Passou | Produtos aleatórios | 
 
-### Evidências
-
+### Evidências teste Positivo
 📎[ 1 - Buscar por “notebook”](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+📎[ 2 - Validar os resultados](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+📎[ 3 - Aplicar filtros de marca e preço](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+📎[ 4 - Ordenar por “Menor preço”](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+
+### Evidências teste Negativo
+📎[ 1 -  Buscar algo inexistente (“abcd1234”)](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/mercadolivre/busca-notebook.png)
+
