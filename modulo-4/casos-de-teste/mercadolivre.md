@@ -1,6 +1,6 @@
 ### Teste Positivo – Busca por “notebook”
 
-| Passo | Ação | Resultado Esperado | Status | Resultado Encontrado |
+| Passo | Ação | Resultado Esperado | Status | Resultado Encontrado | evidencia |
 |------|------|-------------------|--------|----------------------|
 | 1 | Buscar por “notebook” | exibir o texto “notebook” e realizar a pesquisa | Passou | conforme esperado |
 | 2 | Validar os resultados | Produtos condizem com a busca | Passou | Conforme esperado |
