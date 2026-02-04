@@ -13,7 +13,6 @@
 
 ### Evidências
 
-📎[Barra de busca/Menu principal/Alinhamento/Espaçamentos/Contraste](https://github.com/Danielramosgarcia/formacao-qa/blob/32fdf663b5d4e580cf5390139894146804d195f8/modulo-4/evidencias/amazon/busca-menu-alinhamento.png)
-
+📎[Barra de busca/Menu principal/Alinhamento/Espaçamentos/Contraste](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/busca-menu-alinhamento.png)
 
 
