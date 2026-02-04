@@ -1,7 +1,7 @@
 ### Teste Positivo – Busca por “notebook”
 
 | Passo | Ação | Resultado Esperado | Status | Resultado Encontrado | evidencia |
-|------|------|-------------------|--------|----------------------||--------|
+|------|------|-------------------|--------|----------------------|--------|
 | 1 | Buscar por “notebook” | exibir o texto “notebook” e realizar a pesquisa | Passou | conforme esperado | /evidencias/mercadolivre/busca-notebook.png |
 | 2 | Validar os resultados | Produtos condizem com a busca | Passou | Conforme esperado |
 | 3 | Aplicar filtros de marca e preço | Lista é atualizada corretamente | Passou | Filtros funcionaram |
