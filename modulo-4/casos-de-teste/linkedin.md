@@ -26,3 +26,10 @@
 📎[ 3 -  Inserir senha curta]
 📎[ 4 -  Inserir senha sem números]
 📎[ 5 -  Inserir senha sem letras]
+
+### Observações Finais
+
+Durante a execução dos testes, foi observado que o formulário de cadastro
+aceita senhas que não combinam letras e números.
+As regras completas de senha não ficam claras durante o processo de cadastro,
+sendo apresentadas apenas em outros fluxos do sistema.
