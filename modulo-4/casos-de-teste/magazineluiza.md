@@ -17,15 +17,15 @@
 
 
 ### Evidências teste Positivo
-📎[ 1 - Testar “mostrar senha”]
+📎[ 1 - Testar “mostrar senha”](https://github.com/Danielramosgarcia/formacao-qa/blob/1930cf3d0a5aed16d04d50be7aa4dd00ab43d11c/modulo-4/evidencias/magazineluiza/mostrar-senha.png)
 
 
 ### Evidências teste Negativo
-📎[ 1 -  Inserir email correto mais senha errada]
-📎[ 2 -  Inserir email sem “@”]
-📎[ 3 -  Deixar senha vazia]
-📎[ 4 -  Deixar email vazio]
-📎[ 5 -  Testar limite mínimo de caracteres]
+📎[ 1 -  Inserir email correto mais senha errada](https://github.com/Danielramosgarcia/formacao-qa/blob/851552a7ef3af0e25227bb806517a2403acce1a4/modulo-4/evidencias/magazineluiza/email-correto-senha-invalida.png)
+📎[ 2 -  Inserir email sem “@”](https://github.com/Danielramosgarcia/formacao-qa/blob/d35863bb0cdb50abe8eb0f13a8a9df76599d08f8/modulo-4/evidencias/magazineluiza/email-sem-%40.png)
+📎[ 3 -  Deixar senha vazia](https://github.com/Danielramosgarcia/formacao-qa/blob/66dd50111c5fa2035ada33545aacd057960d2577/modulo-4/evidencias/magazineluiza/senha-vazia.png)
+📎[ 4 -  Deixar email vazio](https://github.com/Danielramosgarcia/formacao-qa/blob/e30a2745d90fa4dd8aaa47df1d35f47752d32261/modulo-4/evidencias/magazineluiza/email-vazio.png)
+📎[ 5 -  Testar limite mínimo de caracteres](https://github.com/Danielramosgarcia/formacao-qa/blob/f0a4094c677063dc2d11958f64c118912d5f752b/modulo-4/evidencias/magazineluiza/caracteres-minimos.png)
 
 
 ### Observações Finais
