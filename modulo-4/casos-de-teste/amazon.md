@@ -13,9 +13,9 @@
 
 ### Evidências
 
-[📎[Barra de busca/Menu principal/Alinhamento/Espaçamentos/Contraste](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/busca-menu-alinhamento.png)]
-[📎[Dropdown "Contas e Listas"](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/contas-e-listas-dropdown.png)]
-[📎[Banners/Carrosséis](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/banners-carrosseis.png)]
+📎[Barra de busca/Menu principal/Alinhamento/Espaçamentos/Contraste](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/busca-menu-alinhamento.png)
+📎[Dropdown "Contas e Listas"](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/contas-e-listas-dropdown.png)
+📎[Banners/Carrosséis](https://github.com/Danielramosgarcia/formacao-qa/blob/db658c19dc71caa857fef6c13780fb8ee0da0f16/modulo-4/evidencias/amazon/banners-carrosseis.png)
 
 ### Relatório de Inconsistências – Amazon
 
