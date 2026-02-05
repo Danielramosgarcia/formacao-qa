@@ -1,28 +1,28 @@
-### Teste Positivo
+### Cenários Positivos – Cadastro LinkedIn
 
-| Passo | Ação | Resultado Esperado | Status | Resultado Encontrado | 
+| Cenário | Ação | Resultado Esperado | Status | Resultado Encontrado | 
 |------|------|-------------------|--------|----------------------|
-| 1 | Abrir conta | --------- | --------- | --------- |
-| 2 | Comportamento do botão continuar | --------- | --------- | --------- |
+| 1 | Abrir a opção "Criar conta" | --------- | --------- | --------- |
+| 2 | Clicar no botão “Continuar” com campos válidos | --------- | --------- | --------- |
 
-### Teste Negativo
+### Cenários Negativos – Cadastro LinkedIn
 
 | Passo | Ação | Resultado Esperado | Status | Resultado Encontrado |
 |------|------|-------------------|--------|----------------------| 
-| 1 | Campo de email formato inválido | --------- | --------- | --------- | 
-| 2 | Mensagem de erro com campos vazios | --------- | --------- | --------- |
-| 3 | Combinação de senha curta | --------- | --------- | --------- |
-| 4 | Combinação de senha sem número | --------- | --------- | --------- |
-| 5 | Combinação de senha sem letras | --------- | --------- | --------- |
+| 1 | Inserir email com formato inválido | --------- | --------- | --------- | 
+| 2 | Enviar formulário com campos vazios | --------- | --------- | --------- |
+| 3 | Inserir senha curta | --------- | --------- | --------- |
+| 4 | Inserir senha sem números | --------- | --------- | --------- |
+| 5 | Inserir senha sem letras | --------- | --------- | --------- |
 
 
 ### Evidências teste Positivo
-📎[ 1 - Abrir conta]
-📎[ 2 - Comportamento do botão continuar]
+📎[ 1 - Abrir a opção “Criar conta”]
+📎[ 2 - Clicar no botão “Continuar” com campos válidos]
 
 ### Evidências teste Negativo
-📎[ 1 -  Campo de email formato inválido]
-📎[ 2 -  Mensagem de erro com campos vazios]
-📎[ 3 -  Combinação de senha curta]
-📎[ 4 -  Combinação de senha sem número]
-📎[ 5 -  Combinação de senha sem letras]
+📎[ 1 -  Inserir email com formato inválido]
+📎[ 2 -  Enviar formulário com campos vazios]
+📎[ 3 -  Inserir senha curta]
+📎[ 4 -  Inserir senha sem números]
+📎[ 5 -  Inserir senha sem letras]
