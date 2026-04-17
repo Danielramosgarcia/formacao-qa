@@ -8,7 +8,7 @@ npm install
 ```
 > **NOTE:**
 >
-> it is necessaru to have **node** installed
+> it is necessary to have **node** installed
 
 ## Running
 
