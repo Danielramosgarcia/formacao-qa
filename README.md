@@ -1,2 +1,2 @@
 # Formação QA
-Exercícios da Formação Profissão QA.
+Exercícios e conteudo da Formação Profissão QA.
