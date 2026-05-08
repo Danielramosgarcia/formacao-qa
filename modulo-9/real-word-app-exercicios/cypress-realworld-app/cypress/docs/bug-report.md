@@ -56,13 +56,13 @@ The application allows users to complete financial transactions without sufficie
 
 ## Application State Before Transaction
 
-![Before Transaction](../screenshots/before-transaction.jpeg)
+![Before Transaction](../screenshotsProject/before-transaction.jpeg)
 
 ---
 
 ## Transaction Successfully Completed With Insufficient Funds
 
-![Bug Evidence](../screenshots/insufficient-funds-bug.jpeg)
+![Bug Evidence](../screenshotsProject/insufficient-funds-bug.jpeg)
 
 ---
 
