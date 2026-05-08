@@ -128,5 +128,5 @@ Durante os testes automatizados foi identificado um bug relacionado à validaç�
 
 | Tipo | Link |
 |---|---|
-| Before Transaction | [Visualizar ](./cypress-realworld-app/cypress/screenshots/before-transaction.jpeg) |
-| Bug Screenshot | [Visualizar ](./cypress-realworld-app/cypress/screenshots/insufficient-funds-bug.jpeg) |
+| Before Transaction | [Visualizar](./cypress-realworld-app/cypress/screenshots/before-transaction.jpeg) |
+| Bug Screenshot | [Visualizar](./cypress-realworld-app/cypress/screenshots/insufficient-funds-bug.jpeg) |
