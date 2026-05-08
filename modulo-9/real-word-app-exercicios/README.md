@@ -35,8 +35,10 @@ cypress/
 │   ├── signUpPage.js
 │   └── transactionPage.js
 │
-├── screenshots/
-│
+├── screenshotsProject/
+│   ├── before-transaction.jpeg
+│   └── insufficient-funds-bug.jpeg
+│ 
 └── tests/
     └── ui/
         ├── login.spec.js
