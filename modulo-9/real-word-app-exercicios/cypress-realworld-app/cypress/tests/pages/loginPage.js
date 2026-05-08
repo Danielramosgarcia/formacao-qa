@@ -1,16 +1,17 @@
 class LoginPage {
     selectorsList() {
         const selectors = {
-            usernameField: "[name='username']",
-            passwordField: "[name='password']",
-            loginButton: "button[type='submit']",
-            wrongCredentialAlert: "[role='alert']",
+            usernameField: "[data-test='signin-username']",
+            passwordField: "[data-test='signin-password']",
+            loginButton: "[data-test='signin-submit']",
+            wrongCredentialAlert: "[data-test='signin-error']",
             singUpButton: "[data-test='signup']"
         }
         return selectors
     }
+    
     accessLoginPage() {
-         cy.visit("localhost:3000/signin")
+         cy.visit("http://localhost:3000/signin")
     }
 
     loginWithAnyUser(username, password) {
@@ -19,13 +20,13 @@ class LoginPage {
         cy.get(this.selectorsList().loginButton).click()
     }
 
-    checkAccessInvalid() {
-        cy.get(this.selectorsList().wrongCredentialAlert)
+    checkLoginFail() {
+        cy.get(this.selectorsList().wrongCredentialAlert).should("be.visible")
     }
     
-    checkSingUpPage() {
-        cy.get(this.selectorsList().singUpButton.click()) 
-        cy.location("pathname").should("equal", "http://localhost:3000/signup")
+    accessSingUpPage() {
+        cy.get(this.selectorsList().singUpButton).click() 
+        cy.location("pathname").should("equal", "/signup")
     }
 }
 
