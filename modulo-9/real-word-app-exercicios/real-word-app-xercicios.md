@@ -122,11 +122,11 @@ npx cypress open
 
 Durante os testes automatizados foi identificado um bug relacionado à validação de saldo insuficiente.
 
-[Visualizar Bug Report](./docs/bug-report.md)
+[Visualizar Bug Report](cypress/docs/bug-report.md)
 
 ## Evidências
 
 | Tipo | Link |
 |---|---|
-| Before Transaction | [Visualizar ](./cypress/screenshots/before-transaction.png) |
-| Bug Screenshot | [Visualizar ](./cypress/screenshots/insufficient-funds-bug.png) |
+| Before Transaction | [Visualizar ](cypress/screenshots/before-transaction.png) |
+| Bug Screenshot | [Visualizar ](cypress/screenshots/insufficient-funds-bug.png) |
