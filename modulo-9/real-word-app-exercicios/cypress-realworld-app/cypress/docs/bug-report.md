@@ -1,6 +1,3 @@
-# docs/bug-report.md
-
-```markdown
 # Bug Report — Insufficient Funds Validation
 
 ## Summary
@@ -59,13 +56,13 @@ The application allows users to complete financial transactions without sufficie
 
 ## Application State Before Transaction
 
-![Before Transaction](../cypress/screenshots/before-transaction.png)
+![Before Transaction](../cypress/screenshots/before-transaction.jpeg)
 
 ---
 
 ## Transaction Successfully Completed With Insufficient Funds
 
-![Bug Evidence](../cypress/screenshots/insufficient-funds-bug.png)
+![Bug Evidence](../cypress/screenshots/insufficient-funds-bug.jpeg)
 
 ---
 
@@ -75,3 +72,4 @@ Automated scenario available at:
 
 ```plaintext
 cypress/tests/ui/sendMoney.spec.js
+```
