@@ -56,13 +56,13 @@ The application allows users to complete financial transactions without sufficie
 
 ## Application State Before Transaction
 
-![Before Transaction](../cypress/screenshots/before-transaction.jpeg)
+![Before Transaction](../screenshots/before-transaction.jpeg)
 
 ---
 
 ## Transaction Successfully Completed With Insufficient Funds
 
-![Bug Evidence](../cypress/screenshots/insufficient-funds-bug.jpeg)
+![Bug Evidence](../screenshots/insufficient-funds-bug.jpeg)
 
 ---
 
