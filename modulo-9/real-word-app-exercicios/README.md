@@ -102,6 +102,11 @@ cypress/
 npm install
 ```
 
+## Executar aplicação
+```bash
+npm run dev
+```
+
 ## Executar todos os testes
 ```bash
 npx cypress run

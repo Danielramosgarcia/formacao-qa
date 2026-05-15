@@ -97,72 +97,27 @@ client/
 # Como executar o projeto
 
 ## Instalar dependências
-
 ```bash
 npm install
 ```
-
----
-
-## Configurar ambiente
-
-```bash
-npm run setup
-```
-
----
-
-## Subir aplicação
-
+## Executar aplicação
 ```bash
 npm run dev
 ```
 
-Aplicação disponível em:
-
-```plaintext
-http://localhost:3000
-```
-
----
-
-
-## Executando o Cypress
-
-## Abrir interface gráfica
-
-Dentro da pasta client:
-
-```bash
-npx cypress open
-```
-
----
-
-## Executar em modo headless
-
+## Executar todos os testes
 ```bash
 npx cypress run
 ```
 
----
-
-## Usuários Utilizados nos Testes
-
-Os usuários utilizados estão configurados no seed da aplicação.
-
-## Usuário comum
-
-```plaintext
-Email: test@test.com
-Senha: test123
+## Executar apenas testes UI
+```bash
+npx cypress run --spec "cypress/e2e/ui/*.cy.js"
 ```
 
-## Usuário administrador
-
-```plaintext
-Email: admin@test.com
-Senha: test123
+## Abrir Cypress em modo visual
+```bash
+npx cypress open
 ```
 
 ---
