@@ -36,8 +36,8 @@ client/
 │   │   │
 │   │   └── ui/
 │   │       ├── login.cy.js
-│   │       ├── heroListing.cy.js
-│   │       ├── permissions.cy.js
+│   │       ├── heroesList.cy.js
+│   │       ├── permissionControl.cy.js
 │   │       └── createHero.cy.js
 │   │
 │   └── support/
@@ -51,8 +51,8 @@ client/
 | Funcionalidade        | Arquivo                          |
 | --------------------- | -------------------------------- |
 | Login                 | cypress/e2e/ui/login.cy.js       |
-| Listagem de Heróis    | cypress/e2e/ui/heroListing.cy.js |
-| Controle de Permissão | cypress/e2e/ui/permissions.cy.js |
+| Listagem de Heróis    | cypress/e2e/ui/heroesList.cy.js |
+| Controle de Permissão | cypress/e2e/ui/permissionControl.cy.js |
 | Criação de Herói      | cypress/e2e/ui/createHero.cy.js  |
 
 ## Page Objects
@@ -92,51 +92,11 @@ client/
 * Validação de restrições para usuário comum
 * Verificação de elementos ocultos na UI
 
-## Como Executar o Projeto
-
-* Cypress
-* JavaScript
-* Node.js
-* Prisma
-* Page Object Model (POM)
-
 ---
 
-# 📂 Estrutura de pastas
+# Como executar o projeto
 
-```plaintext
-client/
-│
-├── cypress/
-│   ├── e2e/
-│   │   ├── fixtures/
-│   │   │   ├── userData.json
-│   │   │   └── avatar.jpg
-│   │   │
-│   │   ├── pages/
-│   │   │   ├── loginPage.js
-│   │   │   ├── homePage.js
-│   │   │   └── createHeroPage.js
-│   │   │
-│   │   └── ui/
-│   │       ├── login.cy.js
-│   │       ├── heroListing.cy.js
-│   │       ├── permissions.cy.js
-│   │       └── createHero.cy.js
-│   │
-│   └── support/
-│       └── data.ts
-│
-└── cypress.config.ts
-```
-
----
-
-# ⚙️ Como executar o projeto
-
-## 1. Instalar dependências
-
-Na raiz do projeto:
+## Instalar dependências
 
 ```bash
 npm install
@@ -144,7 +104,7 @@ npm install
 
 ---
 
-## 2. Configurar ambiente
+## Configurar ambiente
 
 ```bash
 npm run setup
@@ -152,7 +112,7 @@ npm run setup
 
 ---
 
-## 3. Subir aplicação
+## Subir aplicação
 
 ```bash
 npm run dev
@@ -166,29 +126,6 @@ http://localhost:3000
 
 ---
 
-### Instalar dependências
-
-```bash
-npm install
-```
-
-### Configurar ambiente
-
-```bash
-npm run setup
-```
-
-### Executar aplicação
-
-```bash
-npm run dev
-```
-
-Aplicação disponível em:
-
-```plaintext
-http://localhost:3000
-```
 
 ## Executando o Cypress
 
@@ -226,72 +163,6 @@ Senha: test123
 ```plaintext
 Email: admin@test.com
 Senha: test123
-```
-
----
-
-## Estrutura de Page Objects
-
----
-
-# loginPage.js
-
-Responsável por:
-
-* Acessar página inicial
-* Abrir modal de login
-* Preencher credenciais
-* Validar login
-* Validar erros
-
----
-
-# homePage.js
-
-Responsável por:
-
-* Verificar listagem de heróis
-* Validar permissões
-* Navegar para criação de herói
-* Validar existência do herói criado
-
----
-
-# createHeroPage.js
-
-Responsável por:
-
-* Preencher formulário
-* Selecionar poderes
-* Upload de imagem
-* Submeter criação
-
----
-
-## Limpeza de Dados
-
-Foi implementado cleanup utilizando:
-
-```js
-cy.task()
-```
-
-com integração Prisma.
-
-## Objetivo
-
-Remover heróis criados durante os testes para evitar:
-
-* Duplicidade
-* Poluição do banco
-* Dependência entre execuções
-
-## Exemplo
-
-```js
-afterEach(() => {
-    cy.task('deleteHero', heroName)
-})
 ```
 
 ---

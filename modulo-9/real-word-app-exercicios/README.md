@@ -134,7 +134,7 @@ Durante os testes automatizados foi identificado um bug relacionado à validaç�
 
 ---
 
-## Conceitos Praticados Durante os Exercícios
+# Conceitos Praticados Durante os Exercícios
 
 * Automação E2E
 * Page Object Model
@@ -158,7 +158,7 @@ Durante os testes automatizados foi identificado um bug relacionado à validaç�
 
 ---
 
-## Resultado
+# Resultado
 
 Os exercícios permitiram praticar a construção de uma suíte E2E organizada, reutilizável e próxima de cenários reais encontrados em projetos de QA Automation.
 
