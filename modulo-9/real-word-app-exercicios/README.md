@@ -131,3 +131,35 @@ Durante os testes automatizados foi identificado um bug relacionado à validaç�
 |---|---|
 | Before Transaction | [Visualizar](./cypress-realworld-app/cypress/screenshotsProject/before-transaction.jpeg) |
 | Bug Screenshot | [Visualizar](./cypress-realworld-app/cypress/screenshotsProject/insufficient-funds-bug.jpeg) |
+
+---
+
+## Conceitos Praticados Durante os Exercícios
+
+* Automação E2E
+* Page Object Model
+* Assertions
+* Fluxos positivos e negativos
+* Validação de autenticação
+* Manipulação de formulários
+* Navegação entre páginas
+* Estruturação de testes Cypress
+* Organização de Page Objects
+* Seletores CSS
+* Hooks (beforeEach / afterEach)
+* Massa de dados com fixtures
+* Validação de transações financeiras
+* Testes de histórico de transações
+* Identificação e documentação de bugs
+* Captura de evidências
+* Estruturação de suíte de testes
+* Reutilização de código
+* Boas práticas de automação
+
+---
+
+## Resultado
+
+Os exercícios permitiram praticar a construção de uma suíte E2E organizada, reutilizável e próxima de cenários reais encontrados em projetos de QA Automation.
+
+Além da automação dos fluxos principais da aplicação, o projeto também possibilitou experiência prática com identificação de bugs, validação de regras de negócio e organização de testes utilizando o padrão Page Object Model.
