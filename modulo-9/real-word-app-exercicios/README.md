@@ -16,7 +16,6 @@ O objetivo deste projeto é praticar:
 
 - Cypress
 - JavaScript
-- Faker
 - Page Objects Pattern
 
 ---
